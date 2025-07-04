@@ -42,10 +42,14 @@ The dataset used in this project contains **1,000 customer records** with the fo
 - Added a new column `Cluster` to label each customer with a cluster ID
 
 **Elbow Plot:**
+
+
 ![image](https://github.com/user-attachments/assets/368f5acd-7782-4dfc-821b-f772125e3bc2)
 
 
 **Cluster Plot:**
+
+
 ![image](https://github.com/user-attachments/assets/0f7dbe5c-4def-4160-91da-685e6bd4e2d3)
 
 
