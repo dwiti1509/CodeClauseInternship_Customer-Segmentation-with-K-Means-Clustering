@@ -2,13 +2,13 @@
 
 This project is part of the **CodeClause Internship** and focuses on applying unsupervised machine learning techniques to segment customers based on their behaviors and attributes.
 
-## 📌 Objective
+## Objective
 
 The main goal of this project is to analyze customer data and group them into distinct segments using **K-Means Clustering**. This segmentation helps businesses understand their customer base and design targeted marketing strategies.
 
 ---
 
-## 📁 Dataset Description
+## Dataset Description
 
 The dataset used in this project contains **1,000 customer records** with the following features:
 
@@ -20,7 +20,7 @@ The dataset used in this project contains **1,000 customer records** with the fo
 
 ---
 
-## 🔍 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 
 - Checked for missing values
 - Analyzed basic statistics (mean, std, etc.)
@@ -28,14 +28,14 @@ The dataset used in this project contains **1,000 customer records** with the fo
 
 ---
 
-## ⚙️ Preprocessing
+##  Preprocessing
 
 - Dropped non-numeric columns (like `customer_id`)
 - Scaled data using **StandardScaler** to normalize features before clustering
 
 ---
 
-## 📊 K-Means Clustering
+##  K-Means Clustering
 
 - Used **Elbow Method** to determine the optimal number of clusters (k)
 - Final model used **k = 4** clusters
@@ -55,7 +55,7 @@ The dataset used in this project contains **1,000 customer records** with the fo
 
 ---
 
-## 📈 Results & Insights
+##  Results & Insights
 
 Each cluster exhibits different characteristics:
 
@@ -73,7 +73,7 @@ Each cluster exhibits different characteristics:
 
 ---
 
-## 📁 Output
+##  Output
 
 - Final clustered data saved as: `segmented_customers.csv`
 
@@ -88,14 +88,14 @@ Each cluster exhibits different characteristics:
 
 ---
 
-## 🤝 Acknowledgements
+##  Acknowledgements
 
 - **CodeClause Internship**
 - Dataset used is fictional and created for academic and project purposes.
 
 ---
 
-## 📎 How to Run
+##  How to Run
 
 ```bash
 # Install required packages
