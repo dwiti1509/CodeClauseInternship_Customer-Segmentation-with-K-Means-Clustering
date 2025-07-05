@@ -94,12 +94,3 @@ Each cluster exhibits different characteristics:
 - Dataset used is fictional and created for academic and project purposes.
 
 ---
-
-##  How to Run
-
-```bash
-# Install required packages
-pip install pandas numpy matplotlib seaborn scikit-learn
-
-# Run the Python script
-python customer_segmentation.py
